@@ -1,0 +1,80 @@
+
+主机名:           DESKTOP-M5LBGGA
+OS 名称:          Microsoft Windows 10 专业版
+OS 版本:          10.0.18363 暂缺 Build 18363
+OS 制造商:        Microsoft Corporation
+OS 配置:          独立工作站
+OS 构建类型:      Multiprocessor Free
+注册的所有人:     xp
+注册的组织:       
+产品 ID:          00330-80000-00000-AA073
+初始安装日期:     2020/4/2, 11:59:02
+系统启动时间:     2020/12/19, 0:50:37
+系统制造商:       Micro-Star International Co., Ltd.
+系统型号:         MS-7B89
+系统类型:         x64-based PC
+处理器:           安装了 1 个处理器。
+                  [01]: AMD64 Family 23 Model 113 Stepping 0 AuthenticAMD ~3600 Mhz
+BIOS 版本:        American Megatrends Inc. 2.60, 2019/12/30
+Windows 目录:     C:\Windows
+系统目录:         C:\Windows\system32
+启动设备:         \Device\HarddiskVolume2
+系统区域设置:     zh-cn;中文(中国)
+输入法区域设置:   en-us;英语(美国) 
+时区:             (UTC+08:00) 北京，重庆，香港特别行政区，乌鲁木齐
+物理内存总量:     16,324 MB
+可用的物理内存:   9,098 MB
+虚拟内存: 最大值: 18,756 MB
+虚拟内存: 可用:   5,464 MB
+虚拟内存: 使用中: 13,292 MB
+页面文件位置:     C:\pagefile.sys
+域:               WORKGROUP
+登录服务器:       \\DESKTOP-M5LBGGA
+修补程序:         安装了 17 个修补程序。
+                  [01]: KB4586878
+                  [02]: KB4513661
+                  [03]: KB4516115
+                  [04]: KB4517245
+                  [05]: KB4528759
+                  [06]: KB4537759
+                  [07]: KB4541338
+                  [08]: KB4552152
+                  [09]: KB4560959
+                  [10]: KB4561600
+                  [11]: KB4565554
+                  [12]: KB4576751
+                  [13]: KB4577670
+                  [14]: KB4580325
+                  [15]: KB4584229
+                  [16]: KB4586863
+                  [17]: KB4592449
+网卡:             安装了 5 个 NIC。
+                  [01]: Realtek PCIe GbE Family Controller
+                      连接名:      以太网
+                      状态:        媒体连接已中断
+                  [02]: Cisco AnyConnect Secure Mobility Client Virtual Miniport Adapter for Windows x64
+                      连接名:      以太网 2
+                      状态:        没有硬件
+                  [03]: Realtek 8188GU Wireless LAN 802.11n USB NIC
+                      连接名:      WLAN 2
+                      启用 DHCP:   是
+                      DHCP 服务器: 192.168.101.1
+                      IP 地址
+                        [01]: 192.168.101.25
+                        [02]: fe80::9d6e:d45d:10e7:68d1
+                        [03]: 240e:3a1:84c:18f1:f0e8:6c00:bb59:a184
+                        [04]: 240e:3a1:84c:18f1:e4fd:a1f3:2327:3
+                        [05]: 240e:3a1:84c:18f1:9d6e:d45d:10e7:68d1
+                  [04]: Hyper-V Virtual Ethernet Adapter
+                      连接名:      vEthernet (Default Switch)
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 172.17.84.33
+                        [02]: fe80::31b2:4b3e:b87b:fd3
+                  [05]: Hyper-V Virtual Ethernet Adapter
+                      连接名:      vEthernet (WSL)
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 192.168.89.113
+                        [02]: fe80::d83d:6533:3c92:434
+Hyper-V 要求:     已检测到虚拟机监控程序。将不显示 Hyper-V 所需的功能。
